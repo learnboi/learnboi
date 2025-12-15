@@ -10,7 +10,7 @@
 - 🌱 I'm learning **Full Stack Development** and solving **LeetCode** problems daily
 - 👯 I'm looking to collaborate on **Java/Spring Boot** projects
 - 💬 Ask me about **Java**, **Spring Boot**, **JSP/Servlets**, **REST APIs**
-- 📫 How to reach me: [Your Email/Contact]
+- 📫 How to reach me: contact.devchaitanya@gmail.com
 - ⚡ Fun fact: I love solving coding challenges and building practical applications
 
 ---
